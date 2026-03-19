@@ -22,11 +22,8 @@ export default function App() {
               Home
             </Link>
             <Link to="/candidates" className="transition hover:text-[#d8c48a]">
-              candidates
+              Candidates
             </Link>
-            <a href="#contact" className="transition hover:text-[#d8c48a]">
-              Contact
-            </a>
           </nav>
         </div>
       </header>
